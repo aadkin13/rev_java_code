@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class ArrayTask {
 	
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		// Create an array
 		Random rand = new Random();
 		int arrSize = 10;
